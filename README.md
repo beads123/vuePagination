@@ -32,7 +32,7 @@
 </code>
 
 
-![]('http://7xioxc.com1.z0.glb.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161110102809.jpg')
+!['demo']('http://7xioxc.com1.z0.glb.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161110102809.jpg')
 
 ## 依赖的库或者组件
 
